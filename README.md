@@ -1,3 +1,30 @@
+Hello there! 😊
+
+I’m **Shakil**, a full-stack developer living in Dhaka, Bangladesh 🇧🇩.
+
+I create and build anything I can dream up. 🧠✨
+
+If inspiration strikes, I’ll most likely bring it to life and launch it. 🚀
+
+I specialize in **React, Tailwind, Java, and Spring Boot**. My go-to tools are **Figma, IntelliJ IDEA, VS Code**, and my trusty laptop 💻.
+
+You can explore several highlighted projects, but the one I love most is **D-Toll CZ** 🛣️💳. It's the first cashless toll system in Bangladesh. I’m very proud to serve my country with this innovative solution! 🇧🇩❤️
+
+I’ve developed more than a few public repositories, and even more privately. 📁🔐
+
+Curious about my process? You can reach me at **sakilmahaqd@gmail.com** 📧 right here!
+
+---
+
+## A Few Fun Tidbits 🎉:
+
+- 🐱🐱 Two cats share my home  
+- ☕🍵 I’m a huge fan of coffee *and* tea  
+- 🍥 *Naruto* tops my anime list — because I never give up!  
+- 🎌🏍️⚽🛠️ My interests: anime, bike riding, sports, and creating things  
+
+> Note: those are my fun tidbits, so take it easy. 😄
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shakil-mahmud-54a091260) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakilmahaqd@gmail.com) 
