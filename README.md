@@ -35,7 +35,7 @@ Curious about my process? You can reach me at **sakilmahaqd@gmail.com** 📧 rig
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shakil-mahmud-jr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shakil-mahmud-jr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil-mahmud-jr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shakil-mahmud-jr&theme=dark&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shakil-mahmud-jr&theme=radical&no-frame=true&no-bg=false&margin-w=4)
